@@ -7,7 +7,5 @@
 <samp>
 CTO at <a href="https://www.hive.fi">Hive Helsinki</a>.<br> Previously worked at 1337 and 42 as developer.<br>I'm always up for learning new things!<br><br> 
 </samp>
-<br>
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=jgengo&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=buefy' alt='jgengo github stats'>
 </div>
 
