@@ -5,7 +5,7 @@
 </div>
 <br><br>
 <samp>
-CTO at <a href="https://www.hive.fi">Hive Helsinki</a>.<br> Previously worked at 1337 and 42 as developer.<br>I'm always up for learning new things!<br><br> 
+CTO at <a href="https://www.hive.fi">Hive Helsinki</a>.<br> Previously worked at <a href="https://1337.ma/">1337</a> and <a href="https://42.fr/en/homepage/">42</a> as developer.<br>I'm always up for learning new things!<br><br> 
 </samp>
 </div>
 
