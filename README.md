@@ -5,7 +5,7 @@
 </div>
 <br>
 CTO at <a href="https://www.hive.fi">Hive Helsinki</a>.<br> Previously worked at <a href="https://1337.ma/">1337</a> and <a href="https://42.fr/en/homepage/">42</a> as developer.<br><br>
-I have always been interested in computers and technology.<br><br>Even as a child, I enjoyed taking apart devices to understand their inner workings.<br><br>Over the last few years, I made a career shift and became fascinated with Edutech and the model 42. I have devoted all my time to deepening my knowledge of emerging technologies and doing projects that support my work at Hive Helsinki, as well as enhancing the student experience within the Hive community and the wider 42network
+I have always been interested in computers and technology. For example, as a child, I enjoyed taking apart devices to understand their inner workings.<br><br>Over the last few years, I made a career shift and became fascinated with Edutech and the model 42. I have devoted all my time to deepening my knowledge of emerging technologies and doing projects that support my work at Hive Helsinki, as well as enhancing the student experience within the Hive community and the wider 42network
 <br><br> 
 </div>
 
