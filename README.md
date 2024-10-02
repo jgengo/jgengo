@@ -1,4 +1,3 @@
-[<img align="left" alt="jgengo | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/jgengo)
 [<img align="left" alt="jgengo | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/jordane-gengo)
 [<img align="left" alt="jgengo | X" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://twitter.com/intent/follow?screen_name=jordanegengo)
 [<img align="left" alt="jgengo | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://www.instagram.com/jordane_gengo/)
