@@ -3,7 +3,7 @@
 [<img align="left" alt="jgengo | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://www.instagram.com/jordane_gengo/)
 <br/><br/>
 
-<b>Jordane Angelo Gengo, Software Engineer at <a href="https://https://careers.wolt.com/en" target="_blank" rel="noopener noreferrer">Wolt</a></b>
+<b>Jordane Angelo Gengo, Software Engineer at <a href="https://careers.wolt.com/en" target="_blank" rel="noopener noreferrer">Wolt</a></b>
 
 Former CTO and Founding member of <a href="https://www.hive.fi" target="_blank" rel="noopener noreferrer">Hive Helsinki</a>. I Previously worked at <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337</a> and <a href="https://42.fr/en/homepage/" target="_blank" rel="noopener noreferrer">42</a> as Developer.<br><br>
 I have always been interested in computers and technology. For example, as a child, I enjoyed taking apart devices to understand their inner workings.<br>
