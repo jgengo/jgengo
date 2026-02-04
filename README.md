@@ -8,6 +8,8 @@
 Former CTO and founding member of <a href="https://www.hive.fi" target="_blank" rel="noopener noreferrer">Hive Helsinki</a>. Previously worked at <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337</a> and <a href="https://42.fr/en/homepage/" target="_blank" rel="noopener noreferrer">42</a> as both Software Engineer and Pedagogical Manager.<br><br>
 I have always been interested in computers and technology. As a child, I enjoyed taking apart devices to understand their inner workings _(although putting them back together was often a fun challenge!)_<br>
 
-A decade ago, I pivoted my career into EdTech, drawn to the potential of peer-to-peer, project-based learning. I’ve since dedicated myself to exploring emerging technologies and building projects at Hive Helsinki that both advanced my own skills and enriched the student experience within the Hive community and across the <a href='https://www.42network.org/' target='_blank' rel='noopener noreferrer'>42 Network</a>.
+A decade ago, I pivoted my career into EdTech, drawn to the potential of peer-to-peer, project-based learning. I’ve since dedicated myself to exploring emerging technologies and building projects at Hive Helsinki that both advanced my own skills and enriched the student experience within the Hive community and across the <a href='https://www.42network.org/' target='_blank' rel='noopener noreferrer'>42 Network</a>.<br>
+
+By the end of 2024, I was looking for new challenges and wanted to work on scalable projects with people I could learn from. That's when I joined <a href="https://wolt.com">Wolt</a>, and since then, I've had the chance to work on some really exciting features and projects!
 <br><br>
 Let's connect 🤝
