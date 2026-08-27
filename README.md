@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/jordane-gengo)
 <br/><br/>
 
-<b>Jordane Angelo Gengo – Software Engineer at <a href="https://careers.wolt.com/en" target="_blank" rel="noopener noreferrer">Wolt</a></b>
+<b>Jordane Angelo Gengo – Software Engineer at <a href="https://careers.wolt.com/en" target="_blank" rel="noopener noreferrer">Wolt</a> and <a href="https://careersatdoordash.com/job-search/" target="_blank" rel="noopener noreferrer">DooorDash</a></b>
 
 Former CTO and founding member of <a href="https://www.hive.fi" target="_blank" rel="noopener noreferrer">Hive Helsinki</a>. Previously worked at <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337</a> and <a href="https://42.fr/en/homepage/" target="_blank" rel="noopener noreferrer">42</a> as both Software Engineer and Pedagogical Manager.<br><br>
 I have always been interested in computers and technology. As a child, I enjoyed taking apart devices to understand their inner workings _(although putting them back together was often a fun challenge!)_<br>
